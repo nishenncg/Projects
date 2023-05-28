@@ -1,0 +1,66 @@
+City,State,Latitude,Longitude,NO2 Reading_2021 (µg/m³),NO2 Reading_2020 (µg/m³),NO2 Reading_2019 (µg/m³)
+Visakhapatnam,Andhra Pradesh,17.6868,83.2185,35,20,18
+Vijayawada,Andhra Pradesh,16.5062,80.648,17,17,12
+Itanagar,Arunachal Pradesh,27.0844,93.6053,5,5,5
+Guwahati,Assam,26.1445,91.7362,11,13,15
+Patna,Bihar,25.5941,85.1376,39,33,33
+Muzaffarpur,Bihar,26.1219,85.3647,13,15,31
+Bhagalpur,Bihar,25.2445,86.9718,12,10,13
+Raipur,Chhattisgarh,21.2514,81.6296,22,22,26
+Bilaspur,Chhattisgarh,22.0773,82.1409,13,20,12
+Bhilai Nagar,Chhattisgarh,21.2092,81.3665,34,30,39
+Panaji,Goa,15.4909,73.8278,15,10,13
+Ahmedabad,Gujarat,23.0225,72.5714,34,17,25
+Vadodara,Gujarat,22.3072,73.1812,19,16,25
+Surat,Gujarat,21.1702,72.8311,24,23,26
+Rajkot,Gujarat,22.3039,70.8022,18,18,26
+Faridabad,Haryana,28.4089,77.3178,35,30,35
+Gurugram,Haryana,28.4595,77.0266,23,18,24
+Yamunanagar,Haryana,30.129,77.2808,14,12,16
+Shimla,Himachal Pradesh,31.1048,77.1734,6,6,26
+Baddi,Himachal Pradesh,30.9538,76.798,13,13,33
+Ranchi,Jharkhand,23.3441,85.3096,36,15,37
+Jamshedpur,Jharkhand,22.8046,86.2029,44,37,48
+Bengaluru,Karnataka,12.9716,77.5946,16,15,23
+Mysuru,Karnataka,12.2958,76.6394,8,5,8
+Mangaluru,Karnataka,12.9141,74.856,10,11,11
+Hubballi-Dharwad,Karnataka,15.3647,75.1239,7,7,8
+Thiruvananthapuram,Kerala,8.5241,76.9366,5,9,5
+Kochi,Kerala,9.9312,76.2673,11,17,19
+Kozhikode,Kerala,11.2588,75.7804,5,5,5
+Indore,Madhya Pradesh,22.7196,75.8577,35,20,18
+Bhopal,Madhya Pradesh,23.2599,77.4126,24,24,21
+Gwalior,Madhya Pradesh,26.2183,78.1828,23,19,23
+Mumbai,Maharashtra,19.076,72.8777,23,27,27
+Pune,Maharashtra,18.5204,73.8567,38,25,72
+Imphal,Manipur,24.817,93.9368,26,22,21
+Shillong,Meghalaya,25.5788,91.8933,6,7,7
+Aizawl,Mizoram,23.727107,92.717638,5,6,11
+Dimapur,Nagaland,25.862989,93.771721,7,7,8
+Bhubaneswar,Odisha,20.296059,85.824539,13,13,12
+Cuttack,Odisha,20.46402,85.879113,18,19,19
+Rourkela,Odisha,22.23829,84.834549,12,11,14
+Ludhiana,Punjab,30.90101,75.857277,30,25,23
+Jalandhar,Punjab,31.326015,75.576182,22,24,25
+Jaipur,Rajasthan,26.912434,75.78727,31,22,34
+Jodhpur,Rajasthan,26.238947,73.024309,25,26,25
+Udaipur,Rajasthan,24.585445,73.712479,26,13,27
+Gangtok,Sikkim,27.338936,88.606506,11,9,10
+Chennai,Tamil Nadu,13.08268,80.270721,13,16,18
+Coimbatore,Tamil Nadu,11.016844,76.955832,20,17,16
+Madurai,Tamil Nadu,9.925201,78.119775,17,15,18
+Tiruchirappalli,Tamil Nadu,10.790483,78.704674,5,7,8
+Hyderabad,Telangana,17.385044,78.486671,34,20,51
+Warangal,Telangana,18.006215,79.581184,35,15,52
+Agartala,Tripura,23.831457,91.286777,9,8,10
+Dehradun,Uttarakhand,30.316495,78.032192,26,25,28
+Haridwar,Uttarakhand,29.94569,78.164246,20,15,24
+Nainital,Uttarakhand,29.398931,79.446915,5,5,5
+Agra,Uttar Pradesh,27.17667,78.008075,20,17,21
+Kanpur,Uttar Pradesh,26.449923,80.331871,44,60,48
+Lucknow,Uttar Pradesh,26.846694,80.946166,34,31,30
+Varanasi,Uttar Pradesh,25.31774,82.973914,34,32,35
+Kolkata,West Bengal,22.572646,88.363895,36,27,38
+Asansol,West Bengal,23.683334,86.98333,29,32,43
+Durgapur,West Bengal,23.520399,87.31192,27,32,44
+Haldia,West Bengal,22.056069,88.109863,28,38,39

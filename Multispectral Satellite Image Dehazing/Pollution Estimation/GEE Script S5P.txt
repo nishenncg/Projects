@@ -1,0 +1,32 @@
+var indiaBounds = ee.Geometry.Polygon(
+  [[[68.17664513521482, 7.334442803994685],
+    [97.40272338521482, 7.334442803994685],
+    [97.40272338521482, 35.585764138443],
+    [68.17664513521482, 35.585764138443]]],
+  null, false
+);
+
+var collection = ee.ImageCollection('COPERNICUS/S5P/OFFL/L3_NO2')
+  .select('tropospheric_NO2_column_number_density')
+  .filterDate('2021-01-01', '2021-04-30')
+  .filterBounds(indiaBounds);
+
+var band_viz = {
+  min: 0,
+  max: 0.0002,
+  palette: ['black', 'blue', 'purple', 'cyan', 'green', 'yellow', 'red']
+};
+
+Map.addLayer(collection.mean(), band_viz, 'S5P N02');
+Map.setCenter(78.96, 20.59, 4);
+
+// Export the image to Google Drive
+Export.image.toDrive({
+  image: collection.mean().clip(indiaBounds),
+  description: 'S5P_NO2_India',
+  folder: 'GEE_exports',
+  region: indiaBounds,
+  scale: 500,
+  maxPixels: 1e13
+});
+
